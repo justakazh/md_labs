@@ -77,7 +77,7 @@
                 </li>
               </ul>
               <li>
-                <a href="playground/04-Union-SQLi/">Local File Inclusion</a>
+                <a href="playground/05-Local-File-Inclusion/">Local File Inclusion</a>
               </li>
             </ul>
           </div>
