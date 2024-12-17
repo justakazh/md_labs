@@ -79,6 +79,9 @@
               <li>
                 <a href="playground/05-Local-File-Inclusion/">Local File Inclusion</a>
               </li>
+              <li>
+                <a href="playground/06-Unrestricted-File-Upload/">Unrestricted File Upload</a>
+              </li>
             </ul>
           </div>
       </div>

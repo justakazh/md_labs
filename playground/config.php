@@ -9,9 +9,9 @@
 // RESPECT FOR CODER :)
 
 
-$host = "localhost";
-$user = "root"; 
-$pass = "";
+$host = "127.0.0.1";
+$user = "admin"; 
+$pass = "password";
 $db = "justakazh_lab";
 
 
