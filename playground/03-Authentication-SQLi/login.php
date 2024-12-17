@@ -25,7 +25,6 @@ if (isset($_POST['login'])) {
 		echo "<center><img src='wrong.png'></center><script></script>";
 	}
 
-
 }
 
 

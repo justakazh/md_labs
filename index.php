@@ -70,14 +70,14 @@
               <li>SQL Injection</li>
               <ul>
                 <li>
-                  <a href="playground/03-Authentication-SQLi/">Authentication Based</a>
+                  <a href="playground/03-Authentication-SQLi/">Authentication Bypass</a>
                 </li>
                 <li>
                   <a href="playground/04-Union-SQLi/">Union Based</a>
                 </li>
               </ul>
               <li>
-                <a href="playground/05-Local-File-Inclusion/">Local File Inclusion</a>
+                <a href="playground/05-File-Inclusion/">File Inclusion</a>
               </li>
               <li>
                 <a href="playground/06-Unrestricted-File-Upload/">Unrestricted File Upload</a>
