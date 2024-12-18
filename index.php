@@ -58,6 +58,9 @@
           <div class="col-md-6 offset-3">
             <h3>Playground List:</h3>
             <ul>
+                <li>
+                  <a href="playground/00-Userenum-brute-force">Username Enumeration and Brute Force</a>
+                </li>
               <li>Cross Site Scripting</li>
               <ul>
                 <li>
